@@ -36,7 +36,7 @@
     "latest-version": "^5.1.0",
     "load-cfg": "2.0.0-rc.69",
     "lodash": "^4.17.14",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.2.2",
     "ora": "^3.4.0",
     "react-docgen": "^4.1.1",
     "react-docgen-actual-name-handler": "2.0.0-rc.69",
